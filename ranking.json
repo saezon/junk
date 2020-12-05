@@ -1,88 +1,47 @@
 [
   {
     "Name" : "Josu",
-    "Score" : "45500"
+    "Score" : "1"
   },
   {
     "Name" : "JC",
-    "Score" : "45523100"
+    "Score" : "2"
   },
   {
     "Name" : "Victor",
-    "Score" : "4125500"
+    "Score" : "3"
   },
   {
     "Name" : "Fran",
-    "Score" : "4500"
+    "Score" : "4"
   }
   ,
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Alejandro",
+    "Score" : "5"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Carlos",
+    "Score" : "6"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Ander",
+    "Score" : "7"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Aitor",
+    "Score" : "8"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Haritz",
+    "Score" : "9"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
+    "Name" : "Imanol",
+    "Score" : "10"
+  },
   {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
-  }
-  ,
-  {
-    "Name" : "Fran",
-    "Score" : "4500"
+    "Name" : "Eneko",
+    "Score" : "11"
   }
 ]

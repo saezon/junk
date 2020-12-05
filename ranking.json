@@ -1,12 +1,14 @@
-{
-  "Name" : "Josu",
-  "Score" : "45500"
-}
-{
-  "Name" : "JC",
-  "Score" : "45523100"
-}
-{
-  "Name" : "Victor",
-  "Score" : "4125500"
-}
+[
+  {
+    "Name" : "Josu",
+    "Score" : "45500"
+  }
+  {
+    "Name" : "JC",
+    "Score" : "45523100"
+  }
+  {
+    "Name" : "Victor",
+    "Score" : "4125500"
+  }
+]
